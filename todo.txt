@@ -1,0 +1,6 @@
+1. k means in pipeline.
+2. k means + dfs
+3. chart for dfs, chi, ginidfs, gini.
+4. improved dfs.
+5. WebKB
+6. 
